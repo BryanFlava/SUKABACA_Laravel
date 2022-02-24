@@ -2,10 +2,6 @@
 
 ## Author
 
-Laravel 8 pepustakaan dibuat oleh :
-
-- Github : <a href="https://github.com/musyahya"> Musyahya </a>
-- Youtube : <a href="https://www.youtube.com/channel/UC1iCvpMssrHnUsWKEe2cOag"> Musyahya </a>
 
 ## Fitur 
 
@@ -43,7 +39,7 @@ Laravel 8 pepustakaan dibuat oleh :
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel8_perpustakaan.git
+git clone https://github.com/BryanFlava/E-LIBRARY_SUKABACA-LARAVEL8-LIVEWIRE.git
 ```
 
 **Download zip**
@@ -80,7 +76,7 @@ nama database : perpustakaan_laravel_8
 
 ```bash
 DB_PORT=3306
-DB_DATABASE=perpustakaan_laravel_8
+DB_DATABASE=SUKABACA-SQL
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -125,4 +121,4 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 Musyahya.
+- Copyright © 2022 SUKABACA.
