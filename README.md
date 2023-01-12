@@ -1,7 +1,8 @@
 <h1 align="center">Laravel 8 Perpustakaan</h1>
 
 ## Author
-
+- [Bryan Samperura](https://github.com/BryanFlava)
+- [Muhammad Sapwan Suhadi](https://github.com/safwansheamus)
 
 ## Fitur 
 
