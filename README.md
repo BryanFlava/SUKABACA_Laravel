@@ -2,7 +2,7 @@
 
 ## Author
 - [Bryan Samperura](https://github.com/BryanFlava)
-- [Muhammad Sapwan Suhadi](https://github.com/safwansheamus)
+- [Muhammad Safwan Suhadi](https://github.com/safwansheamus)
 
 ## Fitur 
 
